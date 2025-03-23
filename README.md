@@ -1,4 +1,4 @@
-# SESI-js-studies
+# Sesi-fetch-Js
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)

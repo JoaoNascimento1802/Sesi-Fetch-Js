@@ -3,32 +3,19 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/JoaoNascimento1802/Sesi-Fetch-Js?style=for-the-badge)
 
-> Repositório com estudos e exemplos práticos sobre JavaScript. O objetivo desse projeto é aprender e aplicar conceitos fundamentais de JS em exercícios práticos.
+> Repositório com estudos e exemplos práticos sobre JavaScript, com foco no uso do `fetch` API. O objetivo desse projeto é aprender e aplicar conceitos fundamentais de JS em exercícios práticos relacionados a requisições HTTP.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você tem o Node.js instalado.
-- Você tem o NPM (Node Package Manager) configurado.
-- Você possui as Extensões de HTML, CSS e JavaScript.
-- Você tem uma máquina que suporta VsCode (Windows, Linux ou macOS).
+- Navegador moderno com suporte a JavaScript.
+- Editor de texto ou IDE (recomendado: VSCode).
 
-## 🚀 Instalando SESI-js-studies
-
-Para instalar o **SESI-js-studies**, siga estas etapas:
-
-### Linux e macOS:
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/JoaoNascimento1802/Sesi-Fetch-Js.git
-    ```
-
-### Windows:
+## 🚀 Como executar o projeto
 
 1. Clone o repositório:
     ```bash
@@ -40,54 +27,24 @@ Para instalar o **SESI-js-studies**, siga estas etapas:
     cd Sesi-Fetch-Js
     ```
 
-3. Instale as dependências com o NPM:
-    ```bash
-    npm install
-    ```
+3. Abra o arquivo `index.html` no seu navegador ou use a extensão do VSCode "Live Server" para uma melhor experiência.
 
-## ☕ Usando SESI-js-studies
+## ☕ Funcionalidades
 
-Para usar **SESI-js-studies**, siga estas etapas:
+- Exemplos de requisições GET e POST usando `fetch`.
+- Manipulação de dados JSON.
+- Tratamento de erros e promessas.
 
-1. Após a instalação das dependências, você pode rodar o projeto diretamente com o comando:
-    ```bash
-    npm start
-    ```
+## 🤝 Contribuindo
 
-2. Acesse o projeto no navegador, geralmente em:
-    ```bash
-    http://localhost:3000
-    ```
+Contribuições são sempre bem-vindas! Para contribuir:
 
-## 📧 Contribuindo para SESI-js-studies
-
-Para contribuir com **SESI-js-studies**, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_branch>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#" title="https://github.com/JoaoNascimento1802">
-        <img src="https://i.pinimg.com/736x/6d/83/b9/6d83b96e6f062c57dcbeb3e325ebcd10.jpg" width="100px;" alt="Foto do Emanuel no GitHub"/><br>
-        <sub>
-          <b>Emanuel</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+1. Fork este repositório.
+2. Crie um branch com sua feature: `git checkout -b minha-feature`.
+3. Faça commit das suas alterações: `git commit -m 'Minha nova feature'`.
+4. Envie para o branch original: `git push origin minha-feature`.
+5. Abra um Pull Request.
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Para mais informações, veja o arquivo [LICENSE](LICENSE).
